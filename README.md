@@ -10,11 +10,11 @@ There are a few variants of each wallpaper using the color pallete from Nord Aur
 ## Normal
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-d-nord.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-d-nord.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme' />
 </p>
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-l-nord.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-l-nord.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme' />
 </p>
 
 ## Color Logo
@@ -22,50 +22,50 @@ There are a few variants of each wallpaper using the color pallete from Nord Aur
 ### Blue 
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-d-nord-blue.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a blue centered logo' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-d-nord-blue.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a blue centered logo' />
 </p>
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-l-nord-blue.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a blue centered logo' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-l-nord-blue.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a blue centered logo' />
 </p>
 
 ### Red
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-d-nord-red.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a red centered logo' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-d-nord-red.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a red centered logo' />
 </p>
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-l-nord-red.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a red centered logo' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-l-nord-red.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a red centered logo' />
 </p>
 
 ### Green
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-d-nord-green.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a green centered logo' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-d-nord-green.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a green centered logo' />
 </p>
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-l-nord-green.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a green centered logo' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-l-nord-green.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a green centered logo' />
 </p>
 
 ### Purple
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-d-nord-purple.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a purple centered logo' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-d-nord-purple.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a purple centered logo' />
 </p>
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-l-nord-purple.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a purple centered logo' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-l-nord-purple.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a purple centered logo' />
 </p>
 
 ### Aurora
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-d-nord-aurora.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a rainbow colored centered logo' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-d-nord-aurora.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a rainbow colored centered logo' />
 </p>
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-l-nord-aurora.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a rainbow colored centered logo' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/svgs/nix-l-nord-aurora.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a rainbow colored centered logo' />
 </p>
 
