@@ -1,5 +1,7 @@
 # nixos-pattern-nord-wallpapers
-A fork of Git Hub user Zebreus' repo [nixos-dark-wallpaper](https://github.com/zebreus/nixos-dark-wallpaper) with Nord colors, a light theme wallpaper, and some alternate color schemes.
+A fork of Git Hub user Zebreus' [nixos-dark-wallpaper](https://github.com/zebreus/nixos-dark-wallpaper) repo. 
+
+This repo features a spin of the original wallpapers with Nord colors, a light theme wallpaper, and some alternate color schemes.
 
 All of these wallpapers are 4100 pixel square SVGs, but could safely be scaled up a few hundred pixels in each direction or exported in different image formats as needed.
 
