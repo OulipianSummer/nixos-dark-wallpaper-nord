@@ -52,7 +52,7 @@ All of these wallpapers are 4100 pixel square SVGs, but could safely be scaled u
 </p>
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-d-nord-purple.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a purple centered logo' />
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-l-nord-purple.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a purple centered logo' />
 </p>
 
 
