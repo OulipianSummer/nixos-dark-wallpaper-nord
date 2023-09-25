@@ -1,18 +1,58 @@
-# nixos-dark-wallpaper
-A dark wallpaper with many NixOS logos.
+# nixos-pattern-nord-wallpapers
+A fork of Git Hub user's Zebreus' repo [nixos-dark-wallpaper](https://github.com/zebreus/nixos-dark-wallpaper) with Nord colors, a light theme wallpaper, and some alternate color schemes.
 
-I made this by hand in Inkscape, so the logos are not aligned perfectly, but it should be good enough. The wallpaper is square and big enough to cover basically every screen.
+All of these wallpapers are 4100 pixel square SVGs, but could safely be scaled up a few hundred pixels in each direction or exported in different image formats as needed.
 
-There is also a Thinkpad version with a red NixOs logo in the center.
-
-# Normal
+## Normal
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/Zebreus/nixos-dark-wallpaper/master/nix-d.svg' width='600' alt='Normal wallpaper' />
+<img src='https://raw.githubusercontent.com/OulipianSumme/nixos-pattern-nord-wallpapers/master/nix-d-nord.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme' />
 </p>
-
-# Thinkpad
 
 <p align='center'>
-<img src='https://raw.githubusercontent.com/Zebreus/nixos-dark-wallpaper/master/thinknix-d.svg' width='600' alt='Normal wallpaper' />
+<img src='https://raw.githubusercontent.com/OulipianSumme/nixos-pattern-nord-wallpapers/master/nix-l-nord.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme' />
 </p>
+
+## Color Logo
+
+### Blue 
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/OulipianSumme/nixos-pattern-nord-wallpapers/master/nix-d-nord-blue.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a blue centered logo' />
+</p>
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/OulipianSumme/nixos-pattern-nord-wallpapers/master/nix-l-nord-blue.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a blue centered logo' />
+</p>
+
+### Red
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/OulipianSumme/nixos-pattern-nord-wallpapers/master/nix-d-nord-red.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a red centered logo' />
+</p>
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/OulipianSumme/nixos-pattern-nord-wallpapers/master/nix-l-nord-red.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a red centered logo' />
+</p>
+
+### Green
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/OulipianSumme/nixos-pattern-nord-wallpapers/master/nix-d-nord-green.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a green centered logo' />
+</p>
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/OulipianSumme/nixos-pattern-nord-wallpapers/master/nix-l-nord-green.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a green centered logo' />
+</p>
+
+### Purple
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/OulipianSumme/nixos-pattern-nord-wallpapers/master/nix-d-nord-purple.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a purple centered logo' />
+</p>
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/OulipianSumme/nixos-pattern-nord-wallpapers/master/nix-l-nord-purple.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a purple centered logo' />
+</p>
+
+
