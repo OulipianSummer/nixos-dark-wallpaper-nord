@@ -3,6 +3,8 @@ A fork of Git Hub user Zebreus' repo [nixos-dark-wallpaper](https://github.com/z
 
 All of these wallpapers are 4100 pixel square SVGs, but could safely be scaled up a few hundred pixels in each direction or exported in different image formats as needed.
 
+There are a few variants of each wallpaper using the color pallete from Nord Aurora, and there is even a rainbow spectrum variant that uses all of the colors.
+
 ## Normal
 
 <p align='center'>
@@ -55,4 +57,13 @@ All of these wallpapers are 4100 pixel square SVGs, but could safely be scaled u
 <img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-l-nord-purple.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a purple centered logo' />
 </p>
 
+### Aurora
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-d-nord-aurora.svg' width='600' alt='Wallpaper patterened with NixOS logos in the dark Nord color theme and a rainbow colored centered logo' />
+</p>
+
+<p align='center'>
+<img src='https://raw.githubusercontent.com/OulipianSummer/nixos-pattern-nord-wallpapers/master/nix-l-nord-aurora.svg' width='600' alt='Wallpaper patterened with NixOS logos in the light Nord color theme and a rainbow colored centered logo' />
+</p>
 
