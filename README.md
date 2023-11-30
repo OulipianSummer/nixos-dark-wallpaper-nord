@@ -7,6 +7,8 @@ All of these wallpapers are 4100 pixel square SVGs, but could safely be scaled u
 
 There are a few variants of each wallpaper using the color pallete from Nord Aurora, and there is even a rainbow spectrum variant that uses all of the colors.
 
+Also check out [my other repo of NixOS wallpapers](https://github.com/OulipianSummer/nord-official-nixos-wallpapers) based off of some of the official NixOS artwork.
+
 ## Normal
 
 <p align='center'>
