@@ -1,4 +1,6 @@
 # nixos-pattern-nord-wallpapers
+Migrated to: [https://codeberg.org/amb/nixos-pattern-nord-wallpapers](https://codeberg.org/amb/nixos-pattern-nord-wallpapers)
+
 A fork of Git Hub user Zebreus' [nixos-dark-wallpaper](https://github.com/zebreus/nixos-dark-wallpaper) repo. 
 
 This repo features a spin of the original wallpapers with Nord colors, a light theme wallpaper, and some alternate color schemes.
